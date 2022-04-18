@@ -1,7 +1,7 @@
 
 <html>
     <head>
-        <title>free robux</title>
+
         
     </head>
     
@@ -23,6 +23,6 @@
               margin-right: auto;
             }
             </style>
-            <img src="https://i.postimg.cc/CKJCbbDM/Annoying-Dog-screenshot-dogcheck.webp" alt="toby" style="width:100%;"/>
+            <img src="https://i.postimg.cc/CKJCbbDM/Annoying-Dog-screenshot-dogcheck.webp" alt="toby" style="width:200%;"/>
 
     </body>
