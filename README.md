@@ -12,7 +12,7 @@
                 }  
             </style>
 
-            <audio autoplay>
+            <audio controls>
                 <source src="Undertale%20–%20Annoying%20Dog%20Theme.mp3" type="audio/mpeg">
             </audio>
         
